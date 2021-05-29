@@ -1,0 +1,33 @@
+h1{
+    width: 400px;
+    height:50px;
+    margin: 0 auto;
+    border:10px dotted blueviolet;   
+    opacity: 0.7;
+    background-color: burlywood;
+    font-family: 'Pattaya', sans-serif;
+}
+body{
+    background-image: url("race.jpg");
+    width:fit-content;
+    margin : 0 auto;
+}
+.name{
+
+    margin: 10px auto ;
+    width: fit-content;
+    height:30px;
+    border:10px solid blueviolet;   
+    opacity: 0.7;
+    background-color: burlywood;
+}
+.racetype {
+    margin: 10px auto ;
+    width: 150px;
+    height:150px;
+    border:10px  dotted black;   
+    opacity: 0.7;
+    background-color: cornflowerblue;
+    font-family: Helvetica;
+    font-weight: bold;
+}
